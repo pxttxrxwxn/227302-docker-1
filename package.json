@@ -2,9 +2,9 @@
   "name": "hello-api",
   "version": "1.0.0",
   "description": "A simple Node.js API that responds with a hello message.",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "^4.21.2"
